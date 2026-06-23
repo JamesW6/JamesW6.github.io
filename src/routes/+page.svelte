@@ -4,7 +4,7 @@
       <a href="#about" class="hover:underline">About</a>
       <a href="#projects" class="hover:underline">Projects</a>
       <a href="#contact" class="hover:underline">Contact</a>
-      <a href="https://drive.google.com/file/d/1N85SLwVIxC-WtLHNy610Iddi7XmVOO1P/view?usp=sharing" target="_blank" class="p-1 bg-black text-white hover:bg-rose-300 hover:text-black">Resume</a>
+      <a href="https://drive.google.com/file/d/1N85SLwVIxC-WtLHNy610Iddi7XmVOO1P/view?usp=sharing" target="_blank" class="p-1 bg-black text-white hover:bg-rose-300 hover:text-black">Resume &#8599;</a>
       <p class="text-xs grow text-right invisible md:visible">jow257 [at] pitt [dot] edu</p>
     </div>
 
@@ -41,12 +41,14 @@
           <div class="border-2 border-black h-full hover:bg-rose-300" style="border-right:0">
               <p class="text-lg">PikiPark</p>
               <p class="text-sm">ML model for finding free parking spaces</p>
+            <p>&#8599;</p>
           </div>
         </a>
         <a href="https://github.com/JamesW6/JamesW6.github.io" target="_blank">
           <div class="border-2 border-black h-full hover:bg-rose-300">
             <p class="text-lg">This Website</p>
             <p class="text-sm">My dive into web development, deployment, and design</p>
+            <p>&#8599;</p>
           </div>
         </a>
       </div>
@@ -64,6 +66,7 @@
         <a href = https://linkedin.com/in/jameswidmer12>
           <div class="border border-black hover:bg-rose-300 h-full"> 
             <p class="text-wrap">linkedin.com/in/jameswidmer12</p>
+            <p>&#8599;</p>
           </div>
         </a>
       </div>
