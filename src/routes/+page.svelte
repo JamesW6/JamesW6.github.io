@@ -63,7 +63,7 @@
         </div>
         <a href = https://linkedin.com/in/jameswidmer12>
           <div class="border border-black hover:bg-rose-300 h-full"> 
-            <p>linkedin.com/in/jameswidmer12</p>
+            <p class="text-wrap">linkedin.com/in/jameswidmer12</p>
           </div>
         </a>
       </div>
