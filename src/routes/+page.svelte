@@ -17,7 +17,7 @@
 
     <div class="border border-black inline-full max-h-px"></div>
 
-    <div id="highlights">
+    <div id="highlights"> 
       <p>
         Hi, I'm James, a rising sophomore at Pitt studying <b>computer science</b> with a minor in mathematics and a vim and linux hobbyist. I've previously worked as
         web designer with the Osher Lifelong Learning Institute at Pitt and participated in an internship-like environment with the 
@@ -57,12 +57,12 @@
     <div id="contact" class="inline-full grid grid-cols-1 grid-rows-1 gap-2">
       <h1 class="text-2xl">Let's get in touch!</h1>
       <p class="text-sm">Best way to reach out is email, but I check LinkedIn as well</p>
-      <div class="grid grid-cols-2 py-4">
+      <div class="grid grid-cols-2 py-4 h-full">
         <div class="border border-black" style="border-right:0">
           <p>jow257 [at] pitt [dot] edu</p>
         </div>
         <a href = https://linkedin.com/in/jameswidmer12>
-          <div class="border border-black hover:bg-rose-300"> 
+          <div class="border border-black hover:bg-rose-300 h-full"> 
             <p>linkedin.com/in/jameswidmer12</p>
           </div>
         </a>
