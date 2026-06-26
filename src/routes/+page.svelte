@@ -59,13 +59,15 @@
     <div class="border border-black inline-full max-h-px"></div>
     
     <div id="experience" class="grid grid-cols-1">
-      <div class="border-2 border-black" style="border-bottom:0">
-        <h1>Pitt Meals Website</h1>
-        <p></p>
+      <div class="border-2 border-black grid grid-cols-2" style="border-bottom:0">
+        <h1 class="text-lg font-bold">Pitt Meals Website</h1>
+        <p class="text-end">February-May 2026</p>
+        <p class="text-sm col-span-2">Developed a website with PittCSC to track available food on campus daily and recommend healthy foods. Worked with <mark class="bg-black text-white text-md">AGILE</mark> structure in an internship-like environment</p>
       </div>
-      <div>
-        <h1 class="border-2 border-black">Osher Lifelong Learning Community</h1>
-        <p></p>
+      <div class="border-2 border-black grid grid cols-2">
+        <h1 class="text-lg font-bold">Osher Lifelong Learning Community</h1>
+        <p class="text-right">February-May 2026</p>
+        <p class="text-sm col-span-2">Designing an updated version of local non profit’s website to maximize accessibility for non-technically experienced users. Had bi-weekly checkins with a supervisor to ensure smooth progress</p>
       </div>
     </div>
 
