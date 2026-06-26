@@ -1,4 +1,4 @@
-# James Widmer's Personal Website Source
+# James Widmer's Personal Website Source Code
 
 This webpage is a short introduction to my professional qualifications, and a bit about meta
 
