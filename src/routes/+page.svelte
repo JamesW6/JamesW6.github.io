@@ -1,11 +1,10 @@
 <div id="webpage"  class="py-10 grid grid-cols-1 gap-12 wrap justify-items-center bg-rose-100 font-montserrat">
   <div id = "content" class="grid grid-cols-1 justify-items-start gap-12 lg:max-inline-1/3 p-3 min-h-screen">
     <div id="nav" class="flex items-center gap-2 inline-full">
-      <a href="#about" class="hover:underline">About</a>
       <a href="#projects" class="hover:underline">Projects</a>
       <a href="#experience" class="hover:underline">Experience</a>
       <a href="#contact" class="hover:underline">Contact</a>
-      <a href="https://drive.google.com/file/d/1N85SLwVIxC-WtLHNy610Iddi7XmVOO1P/view?usp=sharing" target="_blank" class="p-1 bg-black text-white hover:bg-rose-300 hover:text-black">Resume &#8599;</a>
+      <a href="https://drive.google.com/file/d/1N85SLwVIxC-WtLHNy610Iddi7XmVOO1P/view?usp=sharing" target="_blank" class="p-1 bg-black text-white hover:bg-rose-300 hover:text-black">Resume <span class="icon-[solar--arrow-right-up-bold-duotone]"></span></a>
       <p class="text-xs grow text-right invisible md:visible">jow257 [at] pitt [dot] edu</p>
     </div>
 
@@ -43,14 +42,14 @@
           <div class="border-2 border-black h-full hover:bg-rose-300" style="border-right:0">
               <p class="text-lg">PikiPark</p>
               <p class="text-sm">ML model for finding free parking spaces</p>
-            <p>&#8599;</p>
+              <span class="icon-[solar--arrow-right-up-bold-duotone]"></span>
           </div>
         </a>
         <a href="https://github.com/JamesW6/JamesW6.github.io" target="_blank">
           <div class="border-2 border-black h-full hover:bg-rose-300">
             <p class="text-lg">This Website</p>
             <p class="text-sm">My dive into web development, deployment, and design</p>
-            <p>&#8599;</p>
+            <span class="icon-[solar--arrow-right-up-bold-duotone]"></span>
           </div>
         </a>
       </div>
@@ -59,6 +58,7 @@
     <div class="border border-black inline-full max-h-px"></div>
     
     <div id="experience" class="grid grid-cols-1">
+      <h1 class="text-2xl py-4">Experience</h1>
       <div class="border-2 border-black grid grid-cols-2" style="border-bottom:0">
         <h1 class="text-lg font-bold">Pitt Meals Website</h1>
         <p class="text-end">February-May 2026</p>
@@ -80,9 +80,9 @@
           <p>jow257 [at] pitt [dot] edu</p>
         </div>
         <a href = https://linkedin.com/in/jameswidmer12>
-          <div class="border border-black hover:bg-rose-300 h-full"> 
-            <p class="break-all">linkedin.com/in/jameswidmer12</p>
-            <p>&#8599;</p>
+          <div class="border border-black hover:bg-rose-300 h-full flex"> 
+            <p class="break-all px-1">linkedin.com/in/jameswidmer12</p>
+            <span class="icon-[solar--arrow-right-up-bold-duotone]"></span>
           </div>
         </a>
       </div>
