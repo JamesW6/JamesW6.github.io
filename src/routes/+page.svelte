@@ -1,5 +1,5 @@
 <script>
- import portrait from '$lib/assets/portrait.webp'
+ import portrait from '$lib/assets/portrait.webp?inline'
 </script>
 <div id="webpage"  class="py-10 grid grid-cols-1 gap-12 wrap justify-items-center bg-rose-100 font-montserrat">
   <div id = "content" class="grid grid-cols-1 justify-items-start gap-12 lg:max-inline-1/3 p-3 min-h-screen">

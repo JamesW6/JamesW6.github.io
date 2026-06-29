@@ -26,6 +26,6 @@ export default defineConfig({
 		})
 	],
   build: {
-    asstsInlineLimit: Infinity
+    asstsInlineLimit: 10485760,
   }
 });
