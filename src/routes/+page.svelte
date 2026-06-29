@@ -12,7 +12,7 @@
     </div>
 
     <div id="highlights" class="grid grid-cols-2 max-h-40">
-      <div class="h-1/2">
+      <div class="inline-max">
         <h1 class="inline-5 text-2xl font-bold">James Widmer</h1>
         <p>Sophomore @ Pitt</p>
         <p>Incoming Discrete Mathematics UTA @ Pitt</p>
