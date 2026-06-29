@@ -1,6 +1,6 @@
 # James Widmer's Personal Website Source Code
 
-This webpage is a short introduction to my professional qualifications, and a bit about meta
+This webpage is a short introduction to my professional qualifications, and a bit about me
 
 It is one of my first real dives into web design using TailwindCSS, and taught me a lot while teach you about me!
 
