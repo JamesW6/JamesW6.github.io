@@ -18,7 +18,7 @@
         <p>Incoming Discrete Mathematics UTA @ Pitt</p>
         <p class="text-xs py-1">Seeking Summer 2027 Internship Roles</p>
       </div>
-      <img class="invisibile lg:visible justify-self-right object-contain h-40 inline-full" alt="portrait of james" src={portrait} />
+      <img class="invisible lg:visible justify-self-right object-contain h-40 inline-full" alt="portrait of james" src={portrait} />
     </div>
 
 
