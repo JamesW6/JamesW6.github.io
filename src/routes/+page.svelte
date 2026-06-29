@@ -1,18 +1,24 @@
+<script>
+ import portrait from '$lib/assets/portrait.webp'
+</script>
 <div id="webpage"  class="py-10 grid grid-cols-1 gap-12 wrap justify-items-center bg-rose-100 font-montserrat">
   <div id = "content" class="grid grid-cols-1 justify-items-start gap-12 lg:max-inline-1/3 p-3 min-h-screen">
     <div id="nav" class="flex items-center gap-2 inline-full">
       <a href="#projects" class="hover:underline">Projects</a>
       <a href="#experience" class="hover:underline">Experience</a>
       <a href="#contact" class="hover:underline">Contact</a>
-      <a href="https://drive.google.com/file/d/1N85SLwVIxC-WtLHNy610Iddi7XmVOO1P/view?usp=sharing" target="_blank" class="p-1 bg-black text-white hover:bg-rose-300 hover:text-black">Resume <span class="icon-[solar--arrow-right-up-bold-duotone]"></span></a>
+      <a href="https://drive.google.com/file/d/1glYZ0U-_CuL7XYrxyOHnqrb-ppUt3JEm/view?usp=sharing" target="_blank" class="p-1 bg-black text-white hover:bg-rose-300 hover:text-black">Resume <span class="icon-[solar--arrow-right-up-bold-duotone]"></span></a>
       <p class="text-xs grow text-right invisible md:visible">jow257 [at] pitt [dot] edu</p>
     </div>
 
-    <div id="highlights" class="">
-      <h1 class="inline-5 text-2xl font-bold">James Widmer</h1>
-      <p>Sophomore @ Pitt</p>
-      <p>Incoming Discrete Mathematics UTA @ Pitt</p>
-      <p class="text-xs py-1">Seeking Summer 2027 Internship Roles</p>
+    <div id="highlights" class="grid grid-cols-2 max-h-40">
+      <div class="h-1/2">
+        <h1 class="inline-5 text-2xl font-bold">James Widmer</h1>
+        <p>Sophomore @ Pitt</p>
+        <p>Incoming Discrete Mathematics UTA @ Pitt</p>
+        <p class="text-xs py-1">Seeking Summer 2027 Internship Roles</p>
+      </div>
+      <img class="invisibile lg:visible justify-self-right object-contain h-40 inline-full" alt="portrait of james" src={portrait} />
     </div>
 
 
