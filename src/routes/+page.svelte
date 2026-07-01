@@ -2,7 +2,7 @@
  import portrait from '$lib/assets/portrait.webp?inline'
 </script>
 <div id="webpage"  class="py-10 grid grid-cols-1 gap-12 wrap justify-items-center bg-rose-100 font-montserrat">
-  <div id = "content" class="grid grid-cols-1 justify-items-start gap-12 lg:max-inline-1/3 p-3 min-h-screen">
+  <div id = "content" class="grid grid-cols-1 justify-items-start gap-12 lg:max-inline-1/2 2xl:max-inline-1/3 p-3 min-h-screen">
     <div id="nav" class="flex items-center gap-2 inline-full">
       <a href="#projects" class="hover:underline">Projects</a>
       <a href="#experience" class="hover:underline">Experience</a>
@@ -11,14 +11,16 @@
       <p class="text-xs grow text-right invisible md:visible">jow257 [at] pitt [dot] edu</p>
     </div>
 
-    <div id="highlights" class="grid grid-cols-2 max-h-40">
-      <div class="inline-max">
+    <div id="highlights" class="grid grid-cols-2 max-h-40 inline-full">
+      <div class="col-span-2 lg:col-span-1">
         <h1 class="inline-5 text-2xl font-bold">James Widmer</h1>
         <p>Sophomore @ Pitt</p>
         <p>Incoming Discrete Mathematics UTA @ Pitt</p>
         <p class="text-xs py-1">Seeking Summer 2027 Internship Roles</p>
       </div>
-      <img class="invisible lg:visible justify-self-right object-contain h-40 inline-full" alt="portrait of james" src={portrait} />
+      <div class="justify-self-end">
+        <img class="invisible lg:visible h-40" alt="portrait of james" src={portrait} />
+      </div>
     </div>
 
 
